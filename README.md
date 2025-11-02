@@ -2,7 +2,7 @@
   
 # About Me
 
-<h4>I'm HamsterMert. I'm a developer.</h4>
+<h4>I'm Wasp. I'm a developer.</h4>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
   
 ## Tech Stack
 
-[![Instagram](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,lua,nodejs,robloxstudio,visualstudio,vscode,git,github,cloudflare,python)](https://github.com/HamsterMert)
+[![Instagram](https://skillicons.dev/icons?i=js,html,css,discordjs,discord,lua,nodejs,robloxstudio,visualstudio,vscode,git,github,cloudflare,python)](https://github.com/waspdevv)
 
 </div>
 
@@ -29,5 +29,5 @@
 
 ## Profile Views
 
-<img src="https://count.getloli.com/get/@HamsterMert?theme=original-new"> 
+<img src="https://count.getloli.com/get/@waspdevv?theme=original-new"> 
 </div>
