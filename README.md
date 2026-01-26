@@ -19,7 +19,6 @@
 - 🚀 Founder of **[socialstore.com.tr](https://socialstore.com.tr)**
 - 💡 Exploring **AI, Game Physics & Backend Automation**
 - 🧩 I love creating **smooth UIs**, **scalable APIs**, and **immersive experiences**
-- 📫 Reach me at → **me@waspdev.com**
 - 🎮 Fun fact: I sometimes code faster than I debug 😅
 
 ---
